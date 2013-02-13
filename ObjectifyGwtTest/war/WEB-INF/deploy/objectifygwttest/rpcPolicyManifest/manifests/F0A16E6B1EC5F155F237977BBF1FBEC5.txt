@@ -1,0 +1,2 @@
+serviceClass: com.utilitiessavings.ofygwttest.client.GreetingService
+path: 74984237AD0D0FC7E6F117EB9710AFBF.gwt.rpc
